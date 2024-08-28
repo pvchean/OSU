@@ -10,6 +10,6 @@ A curved rod will break when M$_e$ = 80 lb * ft
     v⃗ * w⃗ = |u⃗| * |w⃗| cos $\theta$, u$_v$ * u$_w$ = cos $\theta$ 
 * cross product is used to find a vector perpendicular to two vectors.
 
-]===========  Magnitude of cross product is the area of the parallelogram
+Magnitude of cross product is the area of the parallelogram
 ### Finding a moment about an axis
-e
+See paper notes
