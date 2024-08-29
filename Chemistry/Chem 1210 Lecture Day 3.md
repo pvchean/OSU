@@ -1,123 +1,101 @@
-#Chemistry 2024-08-22
+#Chemistry 2024-08-27
 
-When decomposing 3 moles water, you get 2 moles of hydrogen and 1 mole of oxygen. Hydrogen will have twice the volume of oxygen.
+### Dimensional Analysis
+Dimensional analysis  is a method of changing the units of a value while keeping the true value unchanged.
+- e.g. Ohio has 282.3 people per square mile, France has 123.3 people per square kilometer. we can convert miles to km by multiplying by 1.60934.
+- Ohio has 108.99 people per square kilometer.
 
-A **Homogeneous mixture** is known as a **Solution**.
+## Exact Numbers don't change the number of significant figures!
+If you start with a value that has 4 s.f. and you do a conversion with exact numbers, the final result will still have 4 significant figures!
 
-**Examples of Homogeneous Mixtures**:
-* 14 Carat Gold (Solid)
-* Vodka (Liquid)
-* Air (Gaseous)
+### Example 1
+Aluminum has density of 2.70 g/cm$^3$.
+A package of aluminum foil has 50.0 ft$^2$ of foil with a mass of 227 g. What is the thickness of the aluminum foil in millimeters?
 
-\- Any combination of gasses would be a solution.
+W = d * V -> V = W / d -> V = $\frac{227\text{ g}}{2.70\text{ g}/\text{cm}^{3}}$ -> V = **84.0**74 cm$^3$
+ $50.0 \text{ ft}^{2}×(\frac{12\text{ in}}{1\text{ ft}})^{2}×(\frac{2.54\text{ cm}}{1\text{ cm}})^{2}$ = **464**51 cm$^2$
+V = A * H -> H = $\frac{V}{A}$ -> H = **84.0**74 cm$^3$ / **464**51 cm$^2$ = $0.00181\text{ cm} × (\frac{10\text{ mm}}{1\text{ cm}}$) = 1.81 × 10<sup>-2</sup> mm
 
-**Physical Methods of Separation**:
-- Distillation: The use of temperature to selectively boil a liquid to separate liquids from each other.
-- Filtration: Used to separate solids from liquids.
-- Chromatography: Used to separate liquids based on how fast they flow through a thing.
+### Law of Constant Composition
+The ratio of elements in a compound (its composition) is **always** the same. e.g. H$_2$ 0 has a 2:1 hydrogen to oxygen, always.
+Due to the ideal gas law, the hydrogen will always have twice the volume as the oxygen.
 
-#### Work Problem:
-Classify the following as either a pure substance  or  a mixture. Further classify them as element, compound, homogeneous mixture, or heterogeneous mixture.
+### Dalton's Atomic Theory
+1) Atoms are composed of extremely small particles called atoms
+2) Atoms of the same element are identical, but different elements are different.
+3) Elements cant be changed into other elements, created or destroyed through chemical reactions.
+4) Compounds are formed when atoms of 2 or more elements combine. A compound always have the same relative number and kind of atoms.
+### Law of Multiple Proportions
+If two elements, a and b, form more than one compound, the masses of B that combine with a given mass of A are in ratio of small whole numbers.
+![[Pasted image 20240827115045.png]]
 
-* Rice Pudding - Mixture - Heterogeneous 
-* Carbonated Water - Mixture - Homogeneous
-* Crushed Ice - Pure Substance - Compound
-* Molybdenum - Pure Substance - Element
-* Brass (Cu Zn) - Mixture - Homogeneous Mixture
 
-### Definitions
-* **Flammables**: Will react and consume oxygen.
-* **Oxidant**: Will react with and provide oxygen.
-* **Physical Properties** can be measured without changing the substance chemically.
-* **Chemical Properties** can *only* be observed if  the substance is changed into another property.
-* **Intensive Properties** don't depend on the amount of substance, e.g. boiling point, density or color.
-* **Extensive Properties** depend on the amount of substance, e.g. mass, volume, energy.
-* **physical changes**: Do not change the composition of a substance. e.g. changes in state, temperature, and volume.
-* **Chemical Changes**: Change the composition of a substance. e.g. combustion, oxidation, and decomposition.
-- **Heat** is the energy used to cause the temperature of an object to increase.
-- **Work** is the energy used to cause an object to be displaced.
-- **Kinetic Energy** is the energy of motion. E$_k$ = 1/2 m v$^2$
-- **Potential Energy** is stored energy based on the:
-	- position of an object (Gravitational).
-	- state of a object (Electrostatic).
-	  *Note: Chemical Energy is a type of Electrostatic Energy*
+### Cathode Rays
+Streams of negatively  charged particles  were found to emanate from cathode  tubes, causing fluorescence.
 
-### Class problem No. 1
-Classify the following as either a physical or chemical process
-* Rusting of a metal can - Chemical
-* Boiling a cup of water - Physical
-* Pulverizing a sugar crystal - Physical
-* Exploding a cylinder of nitroglycerin - Chemical
-* Electrolysis of water - Chemical
+You can use magnetic  fields to deflect the electrons.
 
-### What is Heat?
-**Energy** is the capacity to transfer **Heat** or do **Work**.
+![[Pasted image 20240827115613.png]]
+a) Negative, because same charges repel.
+b) The bending will increase because the force increases but the inertia remain the same.
+c) The deflection decreases because the force remains the same while inertia increases.
 
-### Si Base Units
-1) Length, Meters, m
-2) Mass, Kilogram, kg
-3) Temperature, Kelvin, K
-4) Time, Second, s or sec
-5) Amount of substance, Mole, mol
-6) Luminous intensity, Candela, cd
+### Millikans Oil Drop Experiment
+Measured that charges must have discrete values, ie limit to small increment.
 
-### Derived Units
-1) Volume = length$^3$
-2) Density = mass/volume = mass/length$^3$
-3) Energy = mass \* length$^2$/time$^2$
-4) Acceleration = length/time$^2$
+### Plum Pudding model of the atom
+![[Pasted image 20240827120439.png]]
+### Radioactivity
+The spontaneous emission of high energy radiation by an atom.
+Atom had more subatomic particles and energy associated with it.
 
-### Common Units
-1) **Volume**
-	* 1 Liter(L) is 1 dm$^3$
-	* 1 mL is 1 cm$^3$
-2) **Temperature**
-	* K = °C + 273.15
-	* °C = K -  273.15
-	* °F = 9/5(°C)+32
-	* °C = 5/9(°F - 32)
-3) **Energy**
-	* The **Joule**, a derived unit, is the kinetic energy of a 2 kg object moving at 1 m/s.
-		* E$_k$ = 1/2 m v$^2$
-		* 1 J = 1/2 (2 kg)(1 m/s)$^2$
-	* The **Calorie**(cal) is the amount of energy required to raise the temperature of 1 g of water from 14.5°C to 15.5°C.
-### Precision vs Accuracy
-**Precision** is the measure of how closely individual measurements measure **to each other**.
-* e.g. Measurements for a 1 m object: 1.013 1.012 1.013 1.014
-**Accuracy** is the measure of how closely individual measurements measure **to reality**.
-* e.g. Measurements for a 1 m object: 1.03 0.997 0.998 1.001
+$\alpha$-particles: positively charged, 7400 times heavier than $\beta$-particles
+$\beta$-particles: negatively charged, high energy electrons
+$\gamma$-particles: no charge, no mass because it is electromagnetic radiation.
 
-### Exact vs. Inexact Numbers
-**Exact numbers** are known exactly, with no uncertainty.
-**Inexact numbers** depend on how they where measured, and include real life limitations and error.
-### Sig. Fig.
-All digits of a measured quantity, including the uncertain ones, are called significant figured.
-- e.g. on the number 102.03*2*, the two is an estimate
-Sig figs are important in order to not overstate the precision of our answers.
-the last digit is always uncertain for any measured quantity.
-e.g. A balance measures to 0.0001 g, then a reading of 2.2056 g is reported as `2.2056g ± 0.0001g`
+![[Pasted image 20240827120908.png]]
+Disproved the Plum Pudding Atomic Model.
+Proved that the atom had very dense parts, and where mostly empty space.
+### Modern view of the atom
+Nucleus contains almost all of the mass, and all of the positive charge.
+- Made of Protons and Neutrons
+Most of the volume is occupied by Electrons, and contain all of the negative charge.
 
-#### Counting sig figs
-The digit is significant if:
-- a digit is non-zero.
-- a zero is between non-zero digits.
-- a zero is at the end of a number with decimal points.
-Examples:
-1.03 - 3 Sig. Figs. - the zero is between non-zero digits
-1.030 - 4 Sig. Figs. - last zero counts because the number has decimals
-0.031 - 2 Sig. Figs. - first two zeros don't count
-3.050 x 10$^3$ - 4 Sig. Figs.
-3050 - 3 Sig. Figs. - last zero is at the end but has no  decimal.
-#### Addition/Subtraction
-Must retain the same amount of decimals as the number with least amount of decimals.
-- e.g. 20.**4**2 + 1.**3**22 + 83.**1** = 104.8
-- e.g. 1.50 x 10$^3$ + 2.38 x 10$^2$ = 1.30 x 10$^3$ + 0.238 x 10$^3$ = 1.74 x 10$^3$
-#### Multiplication/Division
-Final Sig. Fig is the number of Sig. Figs of the least Sig. Fig number
-- e.g. \[2.67 × 10$^3$ − 4.5 × 10$^2$] × 1.360 × 10<sup>−2</sup>
-1) . \[2.67 × 10$^3$ − 0.45 × 10$^3$] = 2.22 x 10$^3$
-* We maintain 3 figs because subtraction. 2670-450=2220(3)
-2) 22.2 x 10$^2$ x 1.360 × 10<sup>−2</sup>
-3) 0.3019 x 10$^2$
-4) 30.2
-![[Pasted image 20240826103813.png]]
+### Forces within the Atom
+1) Electrostatic charge:
+   - Holds the electrons near the nucleus
+2) Strong Nuclear Force:
+   - Holds the nucleus together. Very strong but must be extremely close.
+3) Weak Nuclear Force:
+   * Weaker than strong nuclear force
+
+### Symbolic representation of Atoms
+$^{12}_6$C
+* 12: The number of protons and neutrons in the atom.
+* 6: The number of protons or electrons in the atom.
+* C: The element of the element.
+#### Isotopes
+Isotopes are Atoms of the same element with a different number of neutrons.
+Examples for carbon:
+* $^{11}$C has 5 neutrons.
+* $^{12}$C has 6 neutrons.
+* $^{13}$C has 7 neutrons.
+* $^{14}$C has 8 neutrons.
+* *Most carbon found in nature is $^{12}$C*
+
+### Class Participation
+1) $^{31}$P$^{3-}$, 15 Protons, 16 Neutrons, 34 Electrons
+2) $^{79}$Se$^{2-}$, 34 Protons, 45 Neutrons, 36 Electrons
+3) $^{119}$Sn$^{4+}$, 50 Protons, 69 Neutrons, 46 Electrons
+4) $^{31}$Au$^{3+}$, 79 Protons, 118 Neutrons, 82 Electrons
+
+### The Atomic Mass Unit
+The atoms have extremely small masses. e.g. H has a mass of 1.67.35 × 10$^{-24}$ g.
+1 amu = 1.66054 × 10$^{-24}$ g
+
+Atomic weights in the periodic table list the average masses of elements. ie more common isotopes weight their percentage towards the average.
+
+We can measure the mass of atoms through a Mass Spectrometer
+
+
+$\left(\frac{12\,\text{in}}{1\,\text{ft}}\right)^2$

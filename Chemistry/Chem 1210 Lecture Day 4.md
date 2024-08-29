@@ -1,101 +1,78 @@
-#Chemistry 2024-08-27
+#Chemistry 2024-08-29
 
-### Dimensional Analysis
-Dimensional analysis  is a method of changing the units of a value while keeping the true value unchanged.
-- e.g. Ohio has 282.3 people per square mile, France has 123.3 people per square kilometer. we can convert miles to km by multiplying by 1.60934.
-- Ohio has 108.99 people per square kilometer.
+The signal intensity of a mass spectrometers shows the amount of atoms of that isotope. the ratio of the peaks is the ratio of isotopes found on the material used.
 
-## Exact Numbers don't change the number of significant figures!
-If you start with a value that has 4 s.f. and you do a conversion with exact numbers, the final result will still have 4 significant figures!
+The atomic mass shown in periodic tables is a weighted average
 
-### Example 1
-Aluminum has density of 2.70 g/cm$^3$.
-A package of aluminum foil has 50.0 ft$^2$ of foil with a mass of 227 g. What is the thickness of the aluminum foil in millimeters?
+### Periodic table
+- Elements in the same row are in the same  period.
+- Elements in the same column are in the same group.
+When seeing each element in atomic order, a pattern shows of non reactive gas, soft reactive metal, metal, non reactive gas, etc. Thus the periodic table was sorted.
 
-W = d * V -> V = W / d -> V = $\frac{227\text{ g}}{2.70\text{ g}/\text{cm}^{3}}$ -> V = **84.0**74 cm$^3$
- $50.0 \text{ ft}^{2}×(\frac{12\text{ in}}{1\text{ ft}})^{2}×(\frac{2.54\text{ cm}}{1\text{ cm}})^{2}$ = **464**51 cm$^2$
-V = A * H -> H = $\frac{V}{A}$ -> H = **84.0**74 cm$^3$ / **464**51 cm$^2$ = $0.00181\text{ cm} × (\frac{10\text{ mm}}{1\text{ cm}}$) = 1.81 × 10<sup>-2</sup> mm
+![[Pasted image 20240829113017.png]]
+### Metals vs Nonmetals
+Properties of metallic elements:
+* Shiny Luster
+* Good conductors of heat, electricity
+* Solids (except Mercury)
+* Malleable and ductile
+Non-Metallic elements can be:
+- Solid, Liquid or Gas
+- Variable in appearance (Color, luster, etc.)
+- Large variation in heat/electric conductivity
+- Solids are brittle
 
-### Law of Constant Composition
-The ratio of elements in a compound (its composition) is **always** the same. e.g. H$_2$ 0 has a 2:1 hydrogen to oxygen, always.
-Due to the ideal gas law, the hydrogen will always have twice the volume as the oxygen.
+### Microscopic Classification of Pure Substances
+- Monatomic Substances: Noble gasses
+- Metallic Substances:
+	- Elements
+	- Compounds
+- Molecular Substance: 
+	- Elements
+	- Compounds
+	The molecule interact with eachother but the individual molecule is never altered.
+* Ionic substances:
+	* compounds only
+### Diatomic Elements
+$\text{H}_2$, $\text{N}_2$, $\text{O}_2$, $\text{F}_2$, $\text{Cl}_2$, $\text{Br}_2$, $\text{I}_2$
 
-### Dalton's Atomic Theory
-1) Atoms are composed of extremely small particles called atoms
-2) Atoms of the same element are identical, but different elements are different.
-3) Elements cant be changed into other elements, created or destroyed through chemical reactions.
-4) Compounds are formed when atoms of 2 or more elements combine. A compound always have the same relative number and kind of atoms.
-### Law of Multiple Proportions
-If two elements, a and b, form more than one compound, the masses of B that combine with a given mass of A are in ratio of small whole numbers.
-![[Pasted image 20240827115045.png]]
+### Molecular vs Empirical Formula
+Empirical formulas give the lowest whole number ratio of atoms of each element in a compound.
+- ie. $H_2O$, HO
+Molecular Formulas give the exact number of atoms of each element in a comound.
+- ie. $H_2O$, $H_2O_2$
+### Ions
+When an atom of a group of atoms loses or gains electrons, it becomes an ion.
+- **Cations** are formed when 1+ electron is lost, atom is +. Monatomic cations are formed by metals.
+- **Anions** are formed when 1+ electron is gained. Monatomic anions are formed by non-metals except noble gasses.
 
+### Ionic Compounds
+generally formed between metals and non-metals.
+The charges always balance out, one atom gives the same number or electrons another atom receives.
+There are no discrete molecules, always shown in Empirical formula.
+They make a lattice /repeating chain of infinitely many atoms.
 
-### Cathode Rays
-Streams of negatively  charged particles  were found to emanate from cathode  tubes, causing fluorescence.
+What is the empirical formula of the ionic compound between calcium and chlorine? It's $CaCl_{2}$
 
-You can use magnetic  fields to deflect the electrons.
-
-![[Pasted image 20240827115613.png]]
-a) Negative, because same charges repel.
-b) The bending will increase because the force increases but the inertia remain the same.
-c) The deflection decreases because the force remains the same while inertia increases.
-
-### Millikans Oil Drop Experiment
-Measured that charges must have discrete values, ie limit to small increment.
-
-### Plum Pudding model of the atom
-![[Pasted image 20240827120439.png]]
-### Radioactivity
-The spontaneous emission of high energy radiation by an atom.
-Atom had more subatomic particles and energy associated with it.
-
-$\alpha$-particles: positively charged, 7400 times heavier than $\beta$-particles
-$\beta$-particles: negatively charged, high energy electrons
-$\gamma$-particles: no charge, no mass because it is electromagnetic radiation.
-
-![[Pasted image 20240827120908.png]]
-Disproved the Plum Pudding Atomic Model.
-Proved that the atom had very dense parts, and where mostly empty space.
-### Modern view of the atom
-Nucleus contains almost all of the mass, and all of the positive charge.
-- Made of Protons and Neutrons
-Most of the volume is occupied by Electrons, and contain all of the negative charge.
-
-### Forces within the Atom
-1) Electrostatic charge:
-   - Holds the electrons near the nucleus
-2) Strong Nuclear Force:
-   - Holds the nucleus together. Very strong but must be extremely close.
-3) Weak Nuclear Force:
-   * Weaker than strong nuclear force
-
-### Symbolic representation of Atoms
-$^{12}_6$C
-* 12: The number of protons and neutrons in the atom.
-* 6: The number of protons or electrons in the atom.
-* C: The element of the element.
-#### Isotopes
-Isotopes are Atoms of the same element with a different number of neutrons.
-Examples for carbon:
-* $^{11}$C has 5 neutrons.
-* $^{12}$C has 6 neutrons.
-* $^{13}$C has 7 neutrons.
-* $^{14}$C has 8 neutrons.
-* *Most carbon found in nature is $^{12}$C*
-
-### Class Participation
-1) $^{31}$P$^{3-}$, 15 Protons, 16 Neutrons, 34 Electrons
-2) $^{79}$Se$^{2-}$, 34 Protons, 45 Neutrons, 36 Electrons
-3) $^{119}$Sn$^{4+}$, 50 Protons, 69 Neutrons, 46 Electrons
-4) $^{31}$Au$^{3+}$, 79 Protons, 118 Neutrons, 82 Electrons
-
-### The Atomic Mass Unit
-The atoms have extremely small masses. e.g. H has a mass of 1.67.35 × 10$^{-24}$ g.
-1 amu = 1.66054 × 10$^{-24}$ g
-
-Atomic weights in the periodic table list the average masses of elements. ie more common isotopes weight their percentage towards the average.
-
-We can measure the mass of atoms through a Mass Spectrometer
-
-
-$\left(\frac{12\,\text{in}}{1\,\text{ft}}\right)^2$
+### Naming Ionic Compounds
+1) Cations
+	- If the cation can have  more than 1 state of charge, we use roman numerals.
+		- $Fe^{2+}$ is written as iron(II)
+		- $Cr^{3+}$ is written as chromium(III)
+2) Anions
+	- For monatomic anions derived from anions  the ending changes to -ide,
+		- Cl$^-$ becomes chloride
+	- For polyatomic anions name isn't changed
+3) Cations are written before Anions
+#### Oxygen pre-post fixes
+- NO$_4^-$: pernitrate
+- NO$_3^-$: nitrate
+- NO$_2^-$: nitrite
+- NO$_1^-$: hyponitrite
+### What are Acids?
+A substance whose molecules yield hydrogen ions ($H^+$) when dissolved in water.
+Most acids can be thought as an anion(-) with enough H+ to balance charge:
+- $HCl$
+- $H_2S$
+- $HNO_3$
+- $H_3PO_4$
