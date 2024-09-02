@@ -84,3 +84,5 @@ Most acids can be thought as an anion(-) with enough H+ to balance charge:
 | 2             |        | -ous    | Chlorous Acid (HClO$_2$)   |
 | 3             |        | -ic     | Chloric Acid (HClO$_3)$    |
 | 4             | Per-   | -ic     | Perchloric Acid (HClO$_4$) |
+
+ending in -ol means its an alcohol, thus has an OH group
