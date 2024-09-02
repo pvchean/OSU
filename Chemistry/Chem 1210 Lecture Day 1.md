@@ -40,7 +40,7 @@ Total: 79%
 #### Definitions:
 * ***Chemistry**: Study of Matter
 * ***Matter**: Anything that has mass and occupies space
-* **Properties**: A characteristic behavior of matter, e.g. color density.
+* ***Properties***: A characteristic behavior of matter, e.g. color density.
 
 What determines whether a molecule is a gas or a liquid is how stronger molecules stick to each other.
 
