@@ -11,12 +11,12 @@ When seeing each element in atomic order, a pattern shows of non reactive gas, s
 
 ![[Pasted image 20240829113017.png]]
 ### Metals vs Nonmetals
-Properties of metallic elements:
+**Properties of metallic elements:**
 * Shiny Luster
 * Good conductors of heat, electricity
 * Solids (except Mercury)
 * Malleable and ductile
-Non-Metallic elements can be:
+**Non-Metallic elements can be:**
 - Solid, Liquid or Gas
 - Variable in appearance (Color, luster, etc.)
 - Large variation in heat/electric conductivity
@@ -76,3 +76,11 @@ Most acids can be thought as an anion(-) with enough H+ to balance charge:
 - $H_2S$
 - $HNO_3$
 - $H_3PO_4$
+
+| No. of Oxygen | Prefix | Postfix | example                    |
+| ------------- | ------ | ------- | -------------------------- |
+| 0             | Hydro- |         | Hydroidic Acid (HI)        |
+| 1             | Hypo-  | -ous    | Hypochlorous Acid (HClO)   |
+| 2             |        | -ous    | Chlorous Acid (HClO$_2$)   |
+| 3             |        | -ic     | Chloric Acid (HClO$_3)$    |
+| 4             | Per-   | -ic     | Perchloric Acid (HClO$_4$) |
