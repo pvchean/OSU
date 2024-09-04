@@ -62,13 +62,13 @@ What is the empirical formula of the ionic compound between calcium and chlorine
 2) Anions
 	- For monatomic anions derived from anions  the ending changes to -ide,
 		- Cl$^-$ becomes chloride
-	- For polyatomic anions name isn't changed
+	- For polyatomic anions name isn't changed, e.g. Dichloride, trichloride, etc.
 3) Cations are written before Anions
 #### Oxygen pre-post fixes
-- NO$_4^-$: pernitrate
-- NO$_3^-$: nitrate
-- NO$_2^-$: nitrite
-- NO$_1^-$: hyponitrite
+- NO$_4^-$: **per**nitr**ate**
+- NO$_3^-$: nitr**ate**
+- NO$_2^-$: nitr**ite**
+- NO$_1^-$: **hypo**nitr**ite**
 ### What are Acids?
 A substance whose molecules yield hydrogen ions ($H^+$) when dissolved in water.
 Most acids can be thought as an anion(-) with enough H+ to balance charge:
