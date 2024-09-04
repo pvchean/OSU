@@ -86,3 +86,28 @@ Most acids can be thought as an anion(-) with enough H+ to balance charge:
 | 4             | Per-   | -ic     | Perchloric Acid (HClO$_4$) |
 
 ending in -ol means its an alcohol, thus has an OH group
+
+### Alkanes
+compounds made of carbon-hydrogen bonds
+the first part of the name depends on the amount of carbon atoms:
+1) Meth-
+2) Eth-
+3) Prop-
+4) But-
+5) Pen-
+6) Hex-
+7) etc.
+followed by -ane. ie Methane, Propane, etc.
+### Alcohols
+When a hydrogen atom is replaced by antoher group of atoms, we call tht group of atoms a functional group.
+If we replace a -H for an -OH, we made an alcohol.
+* The ending changes to -ol.
+Methane is CH$_4$, but if its instead CH$_3$(OH) its methanol.
+
+### Carboxylic Acids
+When a hydrogen atom is replaced -OOH, the -e ending is replaced with -oic. ie Ethane -> Ethanoic Acid. Methane -> Methanoic Acid.
+
+### Isomers
+Compounds that have the same molecular formula but that can have different molecular structures.
+ie *n*-butane vs isobutane
+
