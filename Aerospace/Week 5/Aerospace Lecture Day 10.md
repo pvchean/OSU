@@ -36,6 +36,7 @@ $\frac{P_{0}}{P_{1}} = (\frac{\rho_{0}}{\rho_{1}})^{\gamma}=(\frac{T_{0}}{T_{1}}
 (9) $M^{2} = \frac{2}{\gamma-1}\left[(\frac{P_{0}}{P})^{\frac{\gamma-1}{\gamma}}-1\right]$
 (10) $V^{2} = \frac{2\alpha^{2}}{\gamma-1}\left[(\frac{P_{0}}{P})^{\frac{\gamma-1}{\gamma}}-1\right]$
 - Pitot-Satic = $P_{0}-P$
+
 (11) $V^{2} = \frac{2\alpha^{2}}{\gamma-1}\left[(\frac{P_{0}-P}{P}+1)^{\frac{\gamma-1}{\gamma}}-1\right]$
 - good for all airflow M < 1
 
@@ -65,14 +66,15 @@ $V_{\infty} = \text{ ?}$
 $\rho_{\infty} = \text{ ?}$
 Q: What is $M_A$ what is $V_{A}$?
 
-Calculate var_0: 
-$T_{\infty}= \frac{P_\infty}{\rho_{\infty}R}$ = $518.8 \degree R$
+##### Calculate var_0:
+$T_{\infty}= \frac{P_{\infty}}{\rho_{\infty}R}$ = $518.8 \degree R$
 $\alpha_{\infty}= \sqrt{\gamma R T_{\infty}}= 1116.4 \frac{\text{ft}}{\text{s}}$
 $M_{\infty}= \frac{V_\infty}{\alpha_{\infty}} = 0.657$
 $\frac{T_{0}}{T_{\infty}} = (1 + \frac{\gamma-1}{2}M_{\infty}^{2})$ -> $T_{0} = 563.6\degree R$
 $\frac{P_{0}}{P_{\infty}}=(1 + \frac{\gamma-2}{2}M_{\infty}^{2})^{\frac{\gamma}{\gamma-1}}$ -> $P_{0} = 2827 \frac{\text{lb}}{\text{ft}^{2}}$
 
-Calculate A_0:
+##### Calculate A_0:
+
 @A, local mach number is
 $\frac{P_{0}}{P_{A}}= (1 + \frac{\gamma-1}{2}M_{A}^{2})^{\frac{\gamma}{\gamma-1}}$ -> $M_{A} = 0.9977$
 $\frac{T_{0}}{T_{A}}= (1 + \frac{\gamma-1}{2}M_{A}^{2})$ -> $T_{A} = 470\degree R$

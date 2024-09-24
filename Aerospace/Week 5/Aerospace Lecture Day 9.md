@@ -4,13 +4,13 @@
 
 Resivoir -> Wind Tunnel -> Fan
 
-Resivoir:
+**Resivoir**:
 A = ∞, V = 0, $P_0$ $T_0$
 
-Windtunnel:
-Start:
+**Wind tunnel**:
+**Start**:
 $V_{1}$ $P_{1}$ $A_{1}$
-Test Section:
+**Test Section**:
 $V_{2}$ $P_{2}$ $A_{2}$
 
 
@@ -26,7 +26,7 @@ $P_{1} + \frac{1}{2}\rho (\frac{A_{2}}{A_{1}}V_{2})^{2} = P_{2} + \frac{1}{2}\rh
 $V_{2}= \sqrt{\frac{2(P_{1}-P_{2})}{\rho(1-\frac{A_{2}}{A_{1}})^{2}}}$
 
 ### Airspeed Measurement
-### Definitions:
+#### Definitions:
 - **Static Pressure** p: Non-moving air pressure. ambient pressure.
 - **Total Pressure** $P_0$: Measured as a moving pressure slowing down to geo isentropically.
 

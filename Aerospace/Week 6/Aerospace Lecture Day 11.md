@@ -20,3 +20,6 @@ ṁ (Mass flow rate) remains constant throughout the entire wind tunnel.
 - **M=1**: dA=0, 
 
 $(\frac{A}{A^{*}})^{2} = \frac{1}{M^{2}} [\frac{2}{\gamma + 1}(1+ \frac{\gamma+1}{\gamma-1}M^{2})]^\frac{\gamma+1}{\gamma-1}$  
+
+- When using Bernoulli's principle, M<0.3 is the threshold for error < 5%
+- For M>0.3 don't use Bernoulli's principle.
