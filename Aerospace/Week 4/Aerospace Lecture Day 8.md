@@ -3,10 +3,10 @@
 Δg = Cv dt
 where Cv = specific heat at constant volume
 
-Cv = energy to raise temp by 1k of 1kg w/ const vol heating.
+Cv = energy to raise temp of 1kg by 1k w/ const vol heating.
 
 
-
+                                                                                                          
 
 ### Constant Volume
 sg = C$_v$ dT

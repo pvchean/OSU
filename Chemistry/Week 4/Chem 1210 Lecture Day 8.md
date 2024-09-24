@@ -46,7 +46,7 @@ $Na_{2}CO_{3}(\text{aq}) + Co(NO_{3})_{2}(\text{aq}) → CoCO_{3}(\text{s}) + 2N
 Substances that dissociate in aqueous solution to produce H+ ions.
 
 ### Bases
-when dissolved in water increase the concentration of OH-. take H+ from water.
+when dissolved in water increase the concentration of OH-. take H+ from water, or provide OH- molecule.
 
 
 
@@ -56,3 +56,13 @@ KOH Strong Base
 $CH_3CH_2OH$ Neither (alcohols are neither acid nor bases)
 $CH_3CH_2CH_2OOH$ Weak acid
 NaClO_4 Neither (ionic compound,  no hydrogen)
+
+
+for something to be a strong electrolytes, there is no chloric acid left. you know that because you just memorize it.
+
+A weak electrolyto only gives out some. 
+
+
+**All soluble ionic compounds are strong electrolytes**
+strong are 1:1, 1 more create 1 mole
+HCLO_3 -> H+ ClO_3 -
