@@ -49,4 +49,4 @@ W = 107,810 N @ (1.26, 0.143)
 $\Sigma M_{A} = 0 = -107,81\ kN(1.26m) + F_{b}(\sqrt{8}\ m)$ 
 $F_{b}=47.9 kN$
 
-$\Sigma F_{xx}= 0 = Ax + Fb \cos45\deg = A_{x} = $ 
+$\Sigma F_{xx}= 0 = Ax + Fb \cos45\deg = A_{x} = 1$ 
