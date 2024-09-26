@@ -1,3 +1,4 @@
+#MechEngr 2024-09-25
 Centroid -> Integration
 
 Centroid is the center of an area.
@@ -15,6 +16,7 @@ $$
 W = A×t ρ × g
 
 $\bar y = \frac{\int y\ dA}{\int dA}$ 
+
 
 #### Example
 Find: $\bar y$
