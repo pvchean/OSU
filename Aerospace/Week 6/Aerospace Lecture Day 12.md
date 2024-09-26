@@ -67,6 +67,6 @@ $\frac{T_{01}}{T_{1}}= (1+ \frac{\gamma-1}{2}1^{2}) = \frac{\gamma+1}{2}$ -> $T_
 $\frac{P_{01}}{P_{1}} = (1 + \frac{\gamma-1}{2} 1^{2})^{\frac{\gamma}{\gamma-1}}$ -> $P_{1} = P_{01} (\frac{\gamma+1}{2})^{\frac{-\gamma}{\gamma-1}}$
 
 
-$\frac{P_{01}A_{1}}{\cancel{\sqrt{T_{01}}}} = \frac{P_{02}A_{2}}{\cancel{\sqrt{T_{02}}}}$ -> $P_{01}A_{1} = P_{02}A_{2}$
+$\frac{P_{01}A_{1}}{\cancel{\sqrt{T_{01}}}} = \frac{P_{02}A_{2}}{\cancel{\sqrt{T_{02}}}}$ -> $P_{01}A_{1} = P_{02}A_{2}$ -> $\frac{A_{1}}{A_{2}} = \frac{P_{2}}{P_{1}}$ 
 $T_{01} = T_{02}$
 

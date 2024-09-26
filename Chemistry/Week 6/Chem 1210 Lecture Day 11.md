@@ -54,3 +54,6 @@ $\Delta H = \Delta E + P \Delta V$
 - Where $\Delta V$ is the work done by the expansion or contraction of gas (pressure-volume work)
 #### Pressure-Volume Work
 Neglecting work done by redox reactions (ie. batteries and fuel cells), usually the only work done by chemical or physical change is the mechanical work associated with a change in volume of gasses in the system.
+
+$2 H_{2}(g) + O_{2}(g) -> 2H_{2}O(g)$       $\Delta H = -483.6kJ$
+
