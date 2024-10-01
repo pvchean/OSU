@@ -5,7 +5,7 @@
 **Combustion:** $C_{2}H_{5}OH(l) + 3O_{2}(\text{g}) \rightarrow 2CO_{2} + 3H_{2}O$
 **Precipitation:** $Fe(NO_{3})_{2}(\text{aq}) + 2NaOH(\text{aq}) \rightarrow Fe(OH)_{2}(\text{s}) + 2Na(NO_{3})(\text{aq})$ 
 **Acid Base (Neutralization):** $HClO(\text{aq}) + NaOH(\text{aq}) \rightarrow NaClO(\text{aq}) + H_{2}O(\text{aq})$
-**Oxidation-Reduction:** $Mg(\text{s}) + NiCL_{2}(\text{aq}) \rightarrow MgCl_{2}(\text{aq}) + Ni(s)$
+**Oxidation-Reduction (Redox):** $Mg(\text{s}) + NiCL_{2}(\text{aq}) \rightarrow MgCl_{2}(\text{aq}) + Ni(s)$
 
 ### Things to memorize:
 #### Seven Strong acids:
