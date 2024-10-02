@@ -7,10 +7,9 @@
 ### Electrostatic Potential Energy
 coulumbs law
 
-F = $\frac{1}{4\pi e_{0}}* \frac{|Q_{1}||Q_{2}|}{d^{2}}$  
-Potential Energy = $F*d$
-F = $k\frac{|Q_{1}||Q_{2}|}{d^{2}}$  
-Potential Energy = $k \frac{Q_{1}Q_{2}}{d}$
+F = $\frac{1}{4\pi e_{0}} \times \frac{|Q_{1}||Q_{2}|}{d^{2}} = k\frac{|Q_{1}||Q_{2}|}{d^{2}}$  
+k = $\frac{1}{4\pi e_{0}}$
+Potential Energy = $F \times d = k \frac{Q_{1}Q_{2}}{d}$
 $k = 8.99*10^{9}j*m/C^{2}$
 
 ### First law of Thermodynamics
@@ -26,7 +25,7 @@ The surroundings are everything else, e.g. cylinder pistons and everything beyon
 
 Internal Energy, E, of a system encompasses all the kinetic and potential energy of a system. 
 $\Delta E = \text{heat} + \text{work}$
-$\Delta = q + w$
+$\Delta E = q + w$
 Where:
 - q is the amount of heat entering the system.
 - w is the amount of work entering the system.
@@ -46,14 +45,18 @@ Defined as the internal energy plus the product of pressure and volume.
 $H = E + PV$
 Internal Energy, Pressure and Volume are state functions, thus Enthalpy is also a state function.
 
+Enthalpy is an **Extensive Property**, thus the amount of chemicals affect the amount of enthalpy.
 #### Constant Pressure Processes
 The change in enthalpy, $\Delta H$, is
 $\Delta H = \Delta(E + PV)$
-when changes occur at a constant pressure. Most common in closed systems isolated from atmospheric pressure
+
+When changes occur at a constant pressure. Most common in closed systems isolated from atmospheric pressure
 $\Delta H = \Delta E + P \Delta V$
 - Where $\Delta V$ is the work done by the expansion or contraction of gas (pressure-volume work)
+
+For constant pressure, if no work is done, $\Delta H = \Delta E$
 #### Pressure-Volume Work
 Neglecting work done by redox reactions (ie. batteries and fuel cells), usually the only work done by chemical or physical change is the mechanical work associated with a change in volume of gasses in the system.
 
 $2 H_{2}(g) + O_{2}(g) -> 2H_{2}O(g)$       $\Delta H = -483.6kJ$
-
+$4\ H_{2}(g) + 2\ O_{2}(g) -> 4\ H_{2}O(g)$       $\Delta H = 2 \times -483.6kJ$

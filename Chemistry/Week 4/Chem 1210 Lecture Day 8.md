@@ -66,3 +66,6 @@ A weak electrolyto only gives out some.
 **All soluble ionic compounds are strong electrolytes**
 strong are 1:1, 1 more create 1 mole
 HCLO_3 -> H+ ClO_3 -
+
+### Titration
+When you don't know the concentration of a solution, you use a solution of known concentration until no more reaction take place, in order to figure out molarity of the original solution.

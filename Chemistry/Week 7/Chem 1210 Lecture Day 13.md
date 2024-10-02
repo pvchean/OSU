@@ -1,7 +1,7 @@
 #Chemistry 2024-10-01
 
 ### Standard Enthalpy of Formation
-The standard enthalpy of formation of a compount $\Delta H_{f}\degree$ is the change in enthalpy fir the  reaction that forms one mole of that compound from its elements
+The standard enthalpy of formation of a compound $\Delta H_{f}\degree$ is the change in enthalpy for the  reaction that forms one mole of that compound from its elements
 
 $\Delta H_{rxn}\degree = \Sigma n \Delta H_{f}\degree(products) - \Sigma n \Delta H_{f}\degree(reactants)$
 
