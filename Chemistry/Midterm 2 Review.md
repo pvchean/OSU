@@ -188,7 +188,7 @@ If sample is dissolved in enough water to make 250.0 mL solution, what would the
 - M = $\frac{Moles}{Liters} = \frac{0.773}{0.2500} = 3.09$  
 
 ### Activity Series
-We have 5 reagents, which combinatio n would make hydrogen gas?
+We have 5 reagents, which combination would make hydrogen gas?
 1) Zn
 2) Cu 
 3) Hg
