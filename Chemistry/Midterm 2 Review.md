@@ -88,6 +88,10 @@ Enthalpy is an **Extensive Property**, thus the amount of chemicals affect the a
 $2 H_{2}(g) + O_{2}(g) -> 2H_{2}O(g)$       $\Delta H = -483.6kJ$
 $4\ H_{2}(g) + 2\ O_{2}(g) -> 4\ H_{2}O(g)$       $\Delta H = 2 \times -483.6kJ$
 
+$\Delta < 0$: Energy has left the system.
+$\Delta > 0$: Energy has entered the system.
+$\Delta=0$: Energy has neither entered or left the system.
+
 #### Constant Pressure Processes
 The change in enthalpy, $\Delta H$, is
 $\Delta H = \Delta(E + PV)$
