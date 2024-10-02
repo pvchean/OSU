@@ -1,4 +1,4 @@
-#MechEngr 
+#MechEngr 2024-10-01
 
 $I_{x} = \int y^{2}\ dA$ & $I_{y} = \int x^{2}\ dA$
 1)
