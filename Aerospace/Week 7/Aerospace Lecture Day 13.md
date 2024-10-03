@@ -26,7 +26,7 @@ Outside the boundary layer, there is no sheer force.
 $\delta$ is the thickness of the boundary layer
 
 ### Reynolds Number
-$R_{ex} = \frac{rho_{\infty}V_{\infty}x}{\mu_{\infty}}$ 
+2)$R_{ex} = \frac{rho_{\infty}V_{\infty}x}{\mu_{\infty}}$ 
 Ratio of momentum to shear force
 
 
@@ -57,7 +57,7 @@ Because flow separation causes such massive drag, turbulence is preferred as the
 ![[Pasted image 20241001095958.png]]
 Boundary Layer Formula for flat plate:
 **Laminar**: 
-- $\delta = \frac{2.5x}{\sqrt{R_{ex}}} around x^{0.5}$
+- $\delta = \frac{2.5x}{\sqrt{R_{ex}}} \approx x^{0.5}$
 - $\frac{T_{w}}{\frac{1}{2}\rho_{\infty}V_{\infty}^{2}} = C_{f,x} = \frac{0.664}{\sqrt{R_{ex}}}$
 - $\frac{1}{2}\rho_{\infty}V_{\infty}^{2} = q_{\infty}$
 - $D_{f} = \int_{0}^{L} T_{w}(dx*1)$
