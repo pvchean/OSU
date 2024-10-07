@@ -7,6 +7,12 @@ $\sigma = \frac{N}{A}$        Units = $\frac{\text{Force}}{\text{Area}}$, Pascal
 ![[IMG_20241007_082205_604.jpg]]
 
 ##### At D
+$\rightarrow^{+}\ \Sigma F_{x}= 0$
+$4kN = N_{D} \rightarrow N_{D} = 4kN$
+
+$A = \pi r^{2} \rightarrow \pi (\frac{d}{2})^{2}$
+$A = \pi\left(\left(\frac{28}{2}\right)^{2} - \left(\frac{20}{2}\right)^{2}\right)= 301.6mm^{2}$
+$\sigma = \frac{N}{A} = \frac{-4kN}{301.6mm^{2}} = -13.26MPa$
 
 ##### At E
 $\rightarrow ^{+} \Sigma F_{x} = 0$
