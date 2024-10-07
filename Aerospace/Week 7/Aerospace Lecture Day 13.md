@@ -27,7 +27,7 @@ $\delta$ is the thickness of the boundary layer
 
 ### Reynolds Number
 2)$R_{ex} = \frac{rho_{\infty}V_{\infty}x}{\mu_{\infty}}$ 
-Ratio of momentum to shear force
+Ratio of momentum to shear force (e.g. momentum to viscocity)
 
 
 When flow becomes turbulent, it has a tendency to bring more fluid from outside the boundary layer into the turbulent region
