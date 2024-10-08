@@ -17,7 +17,7 @@ $I_{x} = 2.14\ m^4$
 
 #### Example 2:
 ![[Pasted image 20240930082217.png]]
-$y = 2x^4$ and $x = (y/2)^{\frac{1}{4}}$
+$y = 2x^4$ and $x = \left(\frac{y}{2}\right)^{\frac{1}{4}}$
 
 Find: $I_{x}$ & $I_{y}$
 
