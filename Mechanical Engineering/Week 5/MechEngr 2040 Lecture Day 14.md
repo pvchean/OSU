@@ -1,3 +1,4 @@
+#MechEngr 2024-09-17
 **Trusses**:
 - Everything is a 2 force member
 - only point forces allowd at joints
