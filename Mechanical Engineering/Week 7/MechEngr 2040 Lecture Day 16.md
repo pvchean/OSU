@@ -5,7 +5,7 @@ $I_{y}= \int y^{2}\ dA$
 
 #### Examples
 ![[Pasted image 20240930081238.png]]
-let x = $\frac{y^{2}}{2}$ & $y^{2} = 2-x$ & $y = sqrt{2-x}$
+let x = $\frac{y^{2}}{2}$
 
 Find: $I_x$
 $I_{x} = \int y^{2}\ dA$
