@@ -9,7 +9,8 @@ $I_{y} = \frac{1}{12} hb^{3}$
 2) Calculate $I_{x}$' for each shape
 3) Use Parallel Axis Theorem
    $I_{x} = \bar I_{x'} + Ad_{y}^{2}$
-4) $\Sigma I_{x}$
+   $I_{y} = \bar I_{y'} + Ad_{x}^{2}$
+1) $\Sigma I_{x}$
 
 #### Example 1)
 ![[Pasted image 20241001081410.png]]
