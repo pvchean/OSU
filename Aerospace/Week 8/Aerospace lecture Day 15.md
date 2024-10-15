@@ -29,3 +29,13 @@ The point in which Moment does nto change with Angle of Attack ($\alpha$) is cal
 $M_{AC} = \text{Const.}$ for all $\alpha$
 
 $M_{ac} \approx M_\frac{c}{4}$ (Low Speed Airfoil only)
+$C_{l} = \frac{L}{q_{\infty}S}$
+$C_{d} = \frac{D}{q_{\infty}S}$
+$C_{m} = \frac{M}{q_{\infty}SC}$
+
+In order to relate wind tunnel test to actual flights:
+1) Similar geometric bodies
+2) same similarity parameters ($Re, M_{\infty}$)
+3) Dynamical Similarities
+4) $C_{l}$, $C_{d}$, $C_{m}$ are the same for both flows
+5) Wind Tunnel data directly wed in actual flight
