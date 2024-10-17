@@ -35,4 +35,4 @@ $\tau = G \gamma$
 ![[markup_1000018796.jpg]]
 $\tau = G \gamma$ => Solve for $\gamma$ (radians)
 
-dx for width, h for height, gamma is angle of height ant hypotenus
+dx for width, h for height, gamma is angle between height and hypotenuse
