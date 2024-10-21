@@ -51,11 +51,11 @@ $\Sigma F_{x} = 0 = N_{BC} + 2\times3.5kip - 2kip \rightarrow N_{BC} = -5kip$
 Cylinder cut in the middle of CD, with one force pulling left with 2 kip and N_AB pulling left.
 $\Sigma F_{x} = 0 = -N_{CD} - 1.5kip \rightarrow N_{CD} = -1.5kip$
 
-$S_{AD} = \Sigma \frac{NL}{AE} = \frac{(+2kip)(18in)}{(0.09inch^{2})(10\times10^{3)} \frac{kip}{in^{2}}} + \frac{(-5kip)(12in)}{(0.12inch^{2})(18\times10^{3)} \frac{kip}{in^{2}}} + \frac{(-1.5kip)(16in)}{(0.06inch^{2})(29\times10^{3)} \frac{kip}{in^{2}}} = -0.00157 in$
+$\delta_{AD} = \Sigma \frac{NL}{AE} = \frac{(+2kip)(18in)}{(0.09inch^{2})(10\times10^{3)} \frac{kip}{in^{2}}} + \frac{(-5kip)(12in)}{(0.12inch^{2})(18\times10^{3)} \frac{kip}{in^{2}}} + \frac{(-1.5kip)(16in)}{(0.06inch^{2})(29\times10^{3)} \frac{kip}{in^{2}}} = -0.00157 in$
 
 ### Example 3
 
 ![[markup_1000019175.jpg]]
-Find $S_{F}$
+Find $\delta_{F}$
 $A_{CD} = 45mm^{2}$
 $A_{EF} = 75mm^{2}$
