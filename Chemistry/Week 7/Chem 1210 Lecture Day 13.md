@@ -14,4 +14,5 @@ $2[CO(\text{g}) \rightarrow C(\text{graphite}) + \frac{1}{2}O_{2}(\text{g})]\ \ 
 - Always a positive number. Energy is required to break chemical bond.
 - Stronger Bond = Greater Enthalpy
 - Energy is **always** released when bonds form between gaseous fragments.
+
 $\Delta H_{rxn} = \Sigma(\text{BE of bonds broken}) - \Sigma(\text{BE of bonds formed})$ 
